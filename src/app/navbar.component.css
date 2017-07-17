@@ -1,0 +1,22 @@
+.navbar-default{
+	background-color: #f4511e;
+	border-color: transparent;
+	border-radius: 0;
+}
+.navbar-brand{
+	color:#fff;
+}
+.navbar-brand:hover{
+	color:#fff;
+}
+.navbar-default .navbar-nav>li>a:focus, 
+.navbar-default .navbar-nav>li>a:hover{
+	color:#fff;
+}
+
+.navbar-default .navbar-nav>.active>a, 
+.navbar-default .navbar-nav>.active>a:focus, 
+.navbar-default .navbar-nav>.active>a:hover{
+	background-color: transparent;
+	color:#fff;
+}
